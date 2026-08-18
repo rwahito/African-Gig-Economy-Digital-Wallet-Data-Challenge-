@@ -20,7 +20,8 @@ For the period **2023–2024**, this analysis examines transactions conducted th
 ---
 
 ## Dataset Structure
-
+To download the dataset as well as the project guiding details [Click here](https://datadna.onyxdata.co.uk/challenges/august-2026-datadna-african-gig-economy-and-digital-wallet-analytics-challenge/)
+ 
 The dataset contains:
 
 - **4 Dimension Tables**
