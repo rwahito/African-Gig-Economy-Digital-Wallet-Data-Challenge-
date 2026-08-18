@@ -84,11 +84,13 @@ The dataset contains:
 
 ### Risks
 
-<img width="680" height="382" alt="Risks" src="https://github.com/user-attachments/assets/a7d506dd-a7a7-4080-b5b9-02749b761886" />
+<img width="676" height="377" alt="Risks" src="https://github.com/user-attachments/assets/bb4acbfc-9409-4ece-8ae1-36e66c009a22" />
+
 
 ### Workers
 
-<img width="673" height="380" alt="Workers" src="https://github.com/user-attachments/assets/76e6c0ec-d0ed-4bcc-b2ed-476d1b2d325f" />
+<img width="727" height="407" alt="Workers" src="https://github.com/user-attachments/assets/06e8d536-8e88-4f43-8107-e794a667598b" />
+
 
 
 
