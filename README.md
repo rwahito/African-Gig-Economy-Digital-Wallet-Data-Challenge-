@@ -242,10 +242,21 @@ The dashboard focuses on the following KPIs:
 
 # DAX Measures Reference
 
-## Transaction Measures
+**YOY change measures**: shows the percentage increase or decrease from the previous year(2023) <br>
+1.	Amount lost
+2.	Transactions, total amount, fraudulent transactions
+3.	Fraud rate
+4.	Reversed transactions
 
-### Total Transactions
+\
+**Workers' Measures:**
+1.	Active Worker
+2.	Average Transactions per active worker
 
-```DAX
-Total Transactions =
-COUNTROWS('Transaction History')
+\
+**Added Column**
+1.	Risk Categories: categories the risk scores into 4.
+-	Critical
+-	High
+-	Moderate
+-	Low 
