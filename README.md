@@ -15,7 +15,6 @@ For the period **2023–2024**, this analysis examines transactions conducted th
 - Market performance
 - Channel performance
 - Worker risk
-- Operational indicators
 
 ---
 
